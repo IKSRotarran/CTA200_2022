@@ -1,0 +1,166 @@
+    1  last | less
+    2  w | grep student18
+    3  w
+    4  /cita/local/bin/passwd
+    5  cd /home/cta200
+    6  find -name '*auss*'
+    7  whoami
+    8  w
+    9  who
+   10  pwd
+   11  ls
+   12  echo $0
+   13  ls -la
+   14  q
+   15  cd
+   16  pwd
+   17  cd Papers/
+   18  cd Trash/
+   19  cd
+   20  -ls la
+   21  ls -la
+   22  ls
+   23  cd /Pictures
+   24  cd Pictures
+   25  pwd
+   26  cd
+   27  pwd
+   28  pwd
+   29  mkdir CTA200
+   30  mkdir CTA200_2022
+   31  cd CTA200_2022
+   32  pwd
+   33  mkdir assignment_1
+   34  ls
+   35  -la ls
+   36  ls
+   37  cd assignment_1
+   38  pwd
+   39  cd CTA200_2022
+   40  cd
+   41  pwd
+   42  cd CTA200_2022
+   43  pwd
+   44  touch README.md
+   45  ls 
+   46  vi README.md
+   47  cd
+   48  find murray
+   49  find Hello_world.c
+   50  cd murray
+   51  ls
+   52  cd
+   53  pwd
+   54  cd ~murray
+   55  pwd
+   56  ls
+   57  find Hello_world.c
+   58  find / -name "Hello_world.c"
+   59  cd ~murray
+   60  ls
+   61  locate {Hello_world.c}
+   62  pwd
+   63  ls My_Python
+   64  ls Public
+   65  ls Documents
+   66  ls murray
+   67  ls y
+   68  ls Desktop
+   69  find . -name Hello\*
+   70  locate Hello
+   71  locate Hello_world
+   72  ls anaconda3
+   73  find 'Hello_world.c'
+   74  find Hello_world.py
+   75  pwd
+   76  ls
+   77  cd CTA200H
+   78  ls
+   79  cd
+   80  pwd
+   81  cd ~murray
+   82  pwd
+   83  ls
+   84  ls CTA200
+   85  ls CTA200H_2022
+   86  ls CTA200/CTA200H_2022
+   87  ls CTA200/CTA200H
+   88  ls CTA200/CTA200H_2022/CTA200H
+   89  ls CTA200/CTA200H_2022/CTA200H/assignments
+   90  ls CTA200/CTA200H_2022/CTA200H/projects
+   91  ls CTA200/CTA200H_2022/CTA200H/lecture_1_linux_git
+   92  ls
+   93  ls My_Python
+   94  find Hello_world.c
+   95  ls Documents
+   96  ls Courses
+   97  ls Mini_Courses
+   98  ls Downloads
+   99  ls downloads
+  100  ls Download
+  101  ls Templates
+  102  ls My_Python
+  103  find
+  104  ls
+  105  ls Codes
+  106  ls tmp
+  107  ls cd Papers
+  108  cd tmp
+  109  ls
+  110  cp Hello_world.py ~student18/student18's Home/CTA200_2022/assignment_1
+  111  Hello_world_St-Onge.py
+  112  cd ~murray
+  113  cd Papers
+  114  cd tmp
+  115  ls
+  116  cp Hello_world.c /~student18/CTA200_2022/assignment_1/Hello_world_St-Onge.c
+  117  cp Hello_world.c /~student18/CTA200_2022/assignment_1
+  118  cp Hello_world.c /Home/student18/CTA200_2022/assignment_1
+  119  pwd
+  120  cp Hello_world.c /home/student18/CTA200_2022/assignment_1
+  121  cd /home/murray
+  122  pwd
+  123  cd tmp
+  124  ls
+  125  cp Hello_world.py /home/student18/CTA200_2022/assignment_1
+  126  cd /home/student18/CTA200_2022/assignment_1
+  127  ls
+  128  mv Hello_world.c Hello_world_St-Onge.c
+  129  mv Hello_world.py Hello_world_St-Onge.py
+  130  gcc Hello_world_St-Onge.c
+  131  mv a.out Hello_world.x
+  132  run Hello_world_St-Onge.py
+  133  Hello_world_St-Onge.py
+  134  Hello_world.x
+  135  pwd
+  136  ls
+  137  Hello_world_St-Onge.c
+  138  python Hello_world_St-Onge.py
+  139  touch Hello_world_St-Onge.py
+  140  ./Hello_world.x
+  141  ./Hello_world_St-Onge.py
+  142  chmod Hello_world_St-Onge.py
+  143  chmod Hello_world_St-Onge.py rwx
+  144  chmod --help
+  145  chmod Hello_world_St-Onge.py x
+  146  chmod u+rwx Hello_world_St-Onge.py
+  147  ./Hello_world/St-Onge.py
+  148  pwd
+  149  ./Hello_world_St-Onge.py
+  150  vi Hello_world_St-Onge.py
+  151  vi Hello_world.x
+  152  vi Hello_world_St-Onge.c
+  153  gcc Hello_world_St-Onge.c -o output_c.txt
+  154  ./ Hello_world_St-Onge.py -o output_python.txt
+  155  ./Hello_world_St-Onge.py -o output_python.txt
+  156  vi Hello_world_St-Onge.py
+  157  ./Hello_world_St-Onge.py -o output_python.txt
+  158  vi Hello_world_St-Onge.py
+  159  ./Hello_world_St-Onge.py -o output_python.txt
+  160  vi Hello_world_St-Onge.py
+  161  ./Hello_world_St-Onge.py -o output_python.txt
+  162  vi Hello_world_St-Onge.py
+  163  ./Hello_world_St-Onge.py -o output_python.txt
+  164  vi Hello_world_St-Onge.py
+  165  ./Hello_world_St-Onge.py
+  166  history > history.txt
